@@ -1,0 +1,4 @@
+[submodule "themes/mijnimal"]
+	path = themes/mijnimal
+	url = git@github.com:ijanos/hugo-theme-mijnimal.git
+	branch = master
