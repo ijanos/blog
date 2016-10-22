@@ -1,0 +1,9 @@
+baseurl = "http://blog.janosilles.com/"
+languageCode = "en-us"
+title = "blog.janosilles.com"
+
+[permalinks]
+post = "/:year/:month/:slug/"
+
+[taxonomies]
+tag = "tags"
