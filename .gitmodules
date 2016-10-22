@@ -2,3 +2,7 @@
 	path = themes/mijnimal
 	url = git@github.com:ijanos/hugo-theme-mijnimal.git
 	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:ijanos/ijanos.github.io.git
+	branch = master
