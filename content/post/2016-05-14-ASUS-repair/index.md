@@ -2,7 +2,7 @@
 date = "2016-05-14T15:15:50+02:00"
 draft = false
 title = "ASUS laptop repair"
-tags = ["soldering", "asus"]
+tags = ["soldering", "asus", "diy"]
 +++
 
 My sister has an ASUS K43 laptop that started misbehaving. Failing to detect and
