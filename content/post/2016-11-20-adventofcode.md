@@ -4,11 +4,11 @@ date = "2016-11-30"
 tags = ["puzzle", "programming"]
 +++
 
-I had a really good time last year with [Advent of
-Code](http://adventofcode.com). Having a programming puzzle to solve every day
-as count down to the holidays was surprisingly fun. I had a self imposed
-challenge of doing at least one commit every day which I then continued to
-pretty long commit streak right before GitHub
+This year's [Advent of Code](http://adventofcode.com) starts in a few hours. I
+had a really good time participating in it last year. Having a programming
+puzzle to solve every day as count down to the holidays was surprisingly fun. I
+had a self imposed challenge of doing at least one commit every day which I then
+continued to pretty long commit streak right before GitHub
 [removed](https://github.com/blog/2173-more-contributions-on-your-profile) the
 counter.
 
