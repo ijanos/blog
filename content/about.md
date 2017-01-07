@@ -1,5 +1,6 @@
 +++
 title = "About"
+type = "about"
 +++
 
 Hi there, I'm János. This is my unique little corner on the internet where I keep
