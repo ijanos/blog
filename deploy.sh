@@ -2,6 +2,9 @@
 
 echo -e "Deploying updates to GitHub..."
 
+# Remove previous build files
+rm -rf public/*
+
 # Build the project.
 hugo -t mijnimal
 
