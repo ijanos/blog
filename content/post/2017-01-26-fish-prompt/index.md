@@ -57,7 +57,7 @@ toolchain information.
 And finally here is a screenshot to show what it looks like on my machine, with
 pretty colors.
 
-![colorful fish prompt](post/2016-11-20-fish-prompt/cli.png "colorful fish prompt")
+![colorful fish prompt](post/2017-01-26-fish-prompt/cli.png "colorful fish prompt")
 
 The full config of my fish prompt can be found in my [dotfiles repository on
 GitHub](https://github.com/ijanos/dotfiles/blob/master/fish/.config/fish/functions/fish_prompt.fish).
